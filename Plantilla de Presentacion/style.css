@@ -22,6 +22,7 @@ body{
     width: 450px;
     border-bottom: 3px solid darkviolet;
     border-radius: 2%;
+    transition: 0.5s;
 }
 
 .head:hover{
@@ -40,6 +41,7 @@ body{
     height: 128px;
     position: absolute;
     border: 2px solid darkviolet;
+    transition: 0.5s;
 }
 
 .perfil a i{
